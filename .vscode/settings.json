@@ -1,0 +1,8 @@
+{
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#173321",
+        "titleBar.activeBackground": "#20472E",
+        "titleBar.activeForeground": "#F8FCF9"
+    },
+    "gitflow.disableOnRepo": true
+}

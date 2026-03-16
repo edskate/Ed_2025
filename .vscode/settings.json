@@ -4,5 +4,6 @@
         "titleBar.activeBackground": "#20472E",
         "titleBar.activeForeground": "#F8FCF9"
     },
-    "gitflow.disableOnRepo": true
+    "gitflow.disableOnRepo": true,
+    "commentTranslate.targetLanguage": "zh-CN"
 }
